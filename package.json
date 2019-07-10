@@ -1,0 +1,20 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "rest api app with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "node.js",
+    "rest",
+    "api"
+  ],
+  "author": "esra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
